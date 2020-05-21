@@ -1,0 +1,6 @@
+MongoDB:
+  Uri: "mongodb+srv://root:r3UWtdIG0AXUJ88l@testserver-ujdt6.mongodb.net/test"
+  Database: "experience"
+
+BlockBreakXp:
+  - grass:0:1

@@ -1,0 +1,6 @@
+name: PlayerExperience
+version: 1.0.0-SNAPSHOT
+api: 2.0.0
+author: Mundschutziii
+main: net.lldv.pydow.playerexperience.PlayerExperience
+description: Ein Erfahrungssystem, indem man viel Erfahrung bekommen kann.
